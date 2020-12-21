@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">关于我</string>
+    <string name="self_introduction">计算机科学，研究生二年级，中文</string>
+    <string name="name">名字</string>
+    <string name="ClikeMe">点我</string>
+    <string name="SwitchMode">换到横屏模式</string>
+    <string name="Greeting">很高兴认识你！</string>
+</resources>

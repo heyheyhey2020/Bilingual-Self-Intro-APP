@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="self_introduction">Computer Science Student, Second-Year Graduate Student, Chinese</string>
+    <string name="name">CAN LUO</string>
+    <string name="ClikeMe">Clike Me</string>
+    <string name="SwitchMode">Switch to Landscape Mode</string>
+    <string name="Greeting">Nice to meet you</string>
+</resources>
